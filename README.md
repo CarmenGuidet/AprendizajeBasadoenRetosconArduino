@@ -6,7 +6,7 @@ Este repositorio contiene una colección de nano retos prácticos utilizando ESP
 
 ## Índice de NanoRetos
 
-### ✅ [NanoReto 1 – LED parpadeante](NanoRetos/NanoReto1/NanoReto1_Ejemplo/NanoReto1_ejemplo.md)
+### ✅ [NanoReto 1 – LED parpadeante](NanoRetos/NanoReto1/NanoReto1_Ejemplo/NanoReto1.md)
 - Código para hacer parpadear un LED cada segundo.
 - Ficha de trabajo: [NanoReto1_ficha.pdf](NanoRetos/NanoReto1/NanoReto_1.pdf)
 
