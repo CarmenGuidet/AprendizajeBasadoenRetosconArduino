@@ -6,23 +6,23 @@ Este repositorio contiene una colección de nano retos prácticos utilizando ESP
 
 ## Índice de NanoRetos
 
-### ✅ [NanoReto 1 – LED parpadeante](NanoReto1_ejemplo.md)
+### ✅ [NanoReto 1 – LED parpadeante](NanoRetos/NanoReto1/NanoReto1_Ejemplo/NanoReto1_ejemplo.md)
 - Código para hacer parpadear un LED cada segundo.
 - Ficha de trabajo: [NanoReto1_ficha.pdf](NanoRetos/NanoReto1/NanoReto_1.pdf)
 
-### ✅ [NanoReto 2 – LED controlado por botón](NanoReto2_ejemplo.md)
+### ✅ [NanoReto 2 – LED controlado por botón](NanoRetos/NanoReto2/NanoReto2_Ejemplo/NanoReto2_ejemplo.md)
 - Encender un LED solo al presionar un botón.
 - Ficha de trabajo: [NanoReto2_ficha.pdf](NanoRetos/NanoReto2/NanoReto_2.pdf)
 
-### ✅ [NanoReto 3 – Sensor DHT11](NanoReto3_ejemplo.md)
+### ✅ [NanoReto 3 – Sensor DHT11](NanoRetos/NanoReto3/NanoReto3_Ejemplo/NanoReto3_ejemplo.md)
 - Leer temperatura y humedad desde un DHT11 y mostrarlo por el monitor serie.
 - Ficha de trabajo: [NanoReto3_ficha.pdf](NanoRetos/NanoReto3/NanoReto_3.pdf)
 
-### ✅ [NanoReto 4 – Control de servo motor](NanoReto4_ejemplo.md)
+### ✅ [NanoReto 4 – Control de servo motor](NanoRetos/NanoReto4/NanoReto4_Ejemplo/NanoReto4_ejemplo.md)
 - Mover un servo a 0°, 90° y 180° usando ESP32.
 - Ficha de trabajo: [NanoReto4_ficha.pdf](NanoRetos/NanoReto4/NanoReto_4.pdf)
 
-### ✅ [NanoReto 5 – Comunicación Bluetooth](NanoReto5_ejemplo.md)
+### ✅ [NanoReto 5 – Comunicación Bluetooth](NanoRetos/NanoReto5/NanoReto5_Ejemplo/NanoReto5_ejemplo.md)
 - Comunicación serie básica a través de Bluetooth con ESP32.
 - Ficha de trabajo: [NanoReto5_ficha.pdf](NanoRetos/NanoReto5/NanoReto_5.pdf)
 
